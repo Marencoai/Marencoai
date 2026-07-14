@@ -1,44 +1,84 @@
-# About me
-Hey there! I’m Diana Marenco—a Salesforce-certified operations strategist turned full-stack CRM builder. My background? I launched a fintech startup as Director of Operations, where I led a 14-person team, built systems from scratch, and learned what real operational chaos looks like.
+Hi, I’m Diana Marenco
 
-I’ve configured CRMs inside out—across Salesforce, zoho, and proprietary MCA platforms. I know what breaks, what overwhelms users, and what gets left behind. Now I’m writing my own story by building a system that actually works for humans especially in high-stakes industries like affordable housing.
+I turn messy business problems into working AI systems.
 
-🧠 The Mission
+I started in operations, sales, and customer experience, where I learned how work actually breaks inside growing companies. Now I design and build the systems that fix it.
 
-CRMs shouldn’t make life harder, they should feel intuitive, supportive, and even a little bit magical. So I built a modular CRM from the ground up using Supabase, React, and Vercel, supported by AI assistants like Lovable and ChatGPT. The goal? Replace the duct tape with something elegant and scalable.
+My work sits between business and engineering. I can lead discovery with an executive team, map the workflow with the people doing the job, design the solution, build the product, and help the team actually adopt it.
 
-🧰 Tech Stack
-	•	Frontend: React, TailwindCSS, shadcn/ui
-	•	Backend: Supabase (Postgres + Auth + Storage)
-	•	Hosting: Vercel
-	•	AI Assistant: Lovable AI (code generation), ChatGPT (QA & planning)
-	•	Dev Tools: Cursor (local dev + version control), GitHub
+I am especially interested in roles where AI has to move beyond the demo and become part of how a company operates.
 
-🚀 What It Does
+What I build
 
-This CRM manages affordable housing project lifecycles from lead → application → funding → compliance. It includes:
-	•	Full project and application management
-	•	Custom task engine (with Kanban and Gantt views)
-	•	Supabase-based document upload system
-	•	SharePoint backup integration (scaffolded)
-	•	Client, team, and funding source tracking
-	•	Timeline and milestone planning
-	•	UI built for clarity and emotional intelligence
+- AI-enabled business applications
+- Internal tools and operational workflows
+- CRM and revenue systems
+- Role-based data and permissions architecture
+- AI adoption programs for non-technical teams
+- Automations that connect existing tools instead of forcing a full rebuild
 
-💡 What I’m Learning
-	•	Building features in Cursor with direct code control
-	•	Connecting AI agents into practical workflows
-	•	Managing version control through GitHub
-	•	Debugging and QA testing without losing my mind
-	•	Thinking like a dev and a product manager
+Featured work
 
-👀 What’s Next
-	•	Replacing SharePoint dependency with smarter in-app document flows
-	•	Launching a Life CRM based on this same engine
-	•	Experimenting with AI agents to reduce tedious data entry
-	•	Open-sourcing modules for freelance use
+Housing Compass
 
-🔥 Why Should I care?
+A production CRM built for an affordable housing developer after I spent two weeks embedded with the team learning how their work actually moved.
 
-This isn’t just a side project—it’s a production-quality system that’s already in client use. I’ve been underpaid for this work, but I see it as my launchpad to higher-impact builds, better clients, and my next big chapter in tech.
+What I built:
 
+- Full-stack application using React, TypeScript, PostgreSQL, and Supabase
+- 76-table relational data model
+- 557 row-level security policies
+- 17 Supabase Edge Functions
+- Role-based workflows across projects, applications, funding sources, documents, tasks, and compliance
+- AI-assisted operational workflows used by non-technical employees
+- Training and documentation to support adoption across the organization
+
+The system helped the team manage complex funding deadlines without missed applications and gave employees the confidence to build some of their own automations.
+
+Most of this work lives in private repositories because it was built for a client environment.
+
+AI Transformation and Workflow Design
+
+Through MarencoAI, I help teams identify where AI can remove friction without creating a second system nobody wants to use.
+
+Recent work includes:
+
+* Implementing ChatGPT Enterprise and Claude into daily operations
+* Designing AI workflows for executive briefings, meeting preparation, email drafting, billing, and project management
+* Training C-suite leaders and non-technical employees to use AI in real work
+* Building an OCR workflow that reduced underwriting turnaround from 48 hours to 24 hours
+
+How I work
+
+1. Listen to the people doing the work.
+2. Map how the process actually operates.
+3. Find the bottleneck, not just the loudest complaint.
+4. Build the smallest system that solves the real problem.
+5. Ship, observe, improve, and earn adoption.
+
+I believe every solution creates a new problem. The goal is to make sure it is a better problem than the one we started with.
+
+Tools I work with
+
+Application development: React, TypeScript, JavaScript, Python, Tailwind CSS, shadcn/ui
+Backend and data: Supabase, PostgreSQL, Row Level Security, REST APIs, Edge Functions
+AI: Claude, ChatGPT, prompt engineering, workflow automation, AI-assisted development
+Cloud and platforms: Vercel, AWS, Azure, Salesforce, Zoho, SharePoint, Power Automate
+Development workflow: GitHub, Claude Code, Cursor, Codex, Lovable
+
+What I bring to a team
+
+* Strong customer and stakeholder discovery
+* The ability to translate business needs into technical requirements
+* Hands-on product building, not just strategy decks
+* Experience leading operations, sales, and cross-functional change
+* A practical approach to AI adoption focused on measurable outcomes
+* Comfort working with executives, frontline teams, and engineers
+
+Currently
+
+I am building Housing Compass, advising companies on AI transformation, and exploring opportunities with AI-native teams where I can combine customer discovery, solution design, implementation, and adoption.
+
+Connect
+
+diana@marencoai.com
